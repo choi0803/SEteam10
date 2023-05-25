@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SignUpUI">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignUp" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignOutUI" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignOut" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogInUI" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogIn" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogOutUI">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogOut" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrollRecruitUI" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrollRecruit" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListUPUI" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListUP">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchUI" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Search" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplyUI" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Apply" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowApplyInfoUI" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowApplyInfo">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAACAAAAABAQIAAEBAgAAAAAAAAAACgAAAgQ=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyClient">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAKAAAAABAQAAAABCAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralClient">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACAAAAABAQAAEABAAAEAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientList" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAABAARAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recruit" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgJAAAAAAAABAAAAAAIQAQAAAAEBEAAAEgBAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecruitList" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAFAAAAAAAAABAAAAAAAABAAA=</HashCode>
+      <FileName>headfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
