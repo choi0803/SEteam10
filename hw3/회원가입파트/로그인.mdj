@@ -65,7 +65,7 @@
 											"font": "Arial;13;0",
 											"left": 32.72998046875,
 											"top": 21,
-											"width": 40,
+											"width": 34.7349853515625,
 											"height": 13,
 											"text": "로그인"
 										},
@@ -1349,8 +1349,8 @@
 									"left": 512,
 									"top": 224,
 									"width": 128,
-									"height": 25,
-									"text": "2.1.1 : checkClient()"
+									"height": 38,
+									"text": "2.1.1 : setCheckLogTrue()"
 								}
 							]
 						}
@@ -1608,8 +1608,7 @@
 											"left": 109,
 											"top": 397,
 											"width": 142,
-											"height": 13,
-											"text": "Actor1"
+											"height": 13
 										},
 										{
 											"_type": "LabelView",
